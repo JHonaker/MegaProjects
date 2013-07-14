@@ -55,7 +55,7 @@ Numbers
 Text
 ---------
 
-**Reverse a String** – Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/text/reverse.js) – Enter a string and the program will reverse it and print it out.
 
 **Pig Latin**. Read Wikipedia for more information on rules.
 
