@@ -19,8 +19,6 @@ To get started, fork this repo, delete this README and rename *README-scratch.md
 
 **Note**: I have't read any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior filtering of problems. Keeps things spicy. :)
 
-==============================
-
 Numbers
 ---------
 
@@ -38,7 +36,7 @@ Numbers
 
 [**Change Return Program**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/numbers/change.js) – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+[**Binary to Decimal and Back Converter**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/numbers/binary.js) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
