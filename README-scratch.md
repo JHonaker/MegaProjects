@@ -1,7 +1,7 @@
 Martyr2’s Mega Project List
 ========
 
-Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
+Trying to complete all projects from Martyr2’s Mega Project List(http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 
 **Note**: If you fork this repo to solve these projects in any language of your choice, please remove all my code, and start from scratch; you'll benefit a lot. Do ***not*** send pull requests.
 
@@ -307,9 +307,3 @@ Graphics and Multimedia
 **Watermarking Application** – Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
 
 **Turtle Graphics** – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
-
-Credits
----
-I'd like to thank Martyr2 for compiling this list of projects that I got to when I can't think of anything to do.
-Also, GitHub user [Karan Goel](https://github.com/thekarangoel) deserves a big round of applause for making this awesome README that I stole off his repo. (With implied consent of course!)
-
