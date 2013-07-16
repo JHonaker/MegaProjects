@@ -26,7 +26,7 @@ Numbers
 
 **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** and display them.
+[**Prime Factorization**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/numbers/factor.js) and display them.
 
 **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
