@@ -57,7 +57,7 @@ Text
 
 [**Reverse a String**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/text/reverse.js) – Enter a string and the program will reverse it and print it out.
 
-**Pig Latin**. Read Wikipedia for more information on rules.
+[**Pig Latin**](https://github.com/JohnnyAppleDev/MegaProjects/blob/master/text/piglatin.py). Read Wikipedia for more information on rules.
 
 **Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
